@@ -2,7 +2,7 @@
 
 # permission and image picker
 
-![alt text](./images/Screenshot%202022-11-09%20at%2010.14.41.png =x250)
+![alt text](./images/Screenshot%202022-11-09%20at%2010.14.41.png)
 
 # animeted image
 
