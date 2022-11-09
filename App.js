@@ -1,12 +1,12 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { Nav } from './src/navigate/Nav';
+import { FirstNav } from './src/navigate/FirstNav';
 
 
 const App = () => {
   return (
     <NavigationContainer>
-      <Nav></Nav>
+      <FirstNav></FirstNav>
     </NavigationContainer>
   );
 };

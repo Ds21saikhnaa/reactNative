@@ -11,15 +11,16 @@ export const MyImage = ({ data }) => {
       },
       shadowRadius: 20
     }}>
-      <Image source={{ uri: data }} style={
-        {
-          width: imageW,
-          height: imageH,
-          resizeMode: "cover",
-          borderRadius: 12
+      <Image source={{ uri: data }}
+        style={
+          {
+            width: imageW,
+            height: imageH,
+            resizeMode: "cover",
+            borderRadius: 12
 
-        }
-      } />
+          }
+        } />
     </View>
   )
 }
